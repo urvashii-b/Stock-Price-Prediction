@@ -1,6 +1,6 @@
 # Stock-Price-Prediction
 
-![Project Image](C:\Users\urvas\OneDrive\Desktop\stock_price.jpg)
+![Project Image](stock_price.jpg)
 
 ## Data Analytics Hackathon Project
 
