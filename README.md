@@ -20,6 +20,10 @@ In this hackathon, I aimed to predict stock prices and develop a strategy (Hold,
 - **XGBoost:** I employed the XGBoost model as one of the ensemble base models.
 - **Soft Voting:** The final prediction for the strategy was made using soft voting among the ensemble models.
 
+### Results of Hackathon
+
+![image](https://github.com/urvashii-b/Stock-Price-Prediction/assets/130129236/c811d6b8-a3f2-4ab9-91e8-7a440e3ade1c)
+
 ## Getting Started
 
 To run the code and reproduce the results, follow these steps:
